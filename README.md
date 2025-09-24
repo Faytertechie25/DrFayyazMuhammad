@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_PROFILE_PHOTO_OR_LOGO_URL" width="120" />
+  <img src="https://github.com/Faytertechie25/DrFayyazMuhammad/blob/main/IMG_4911.jpg" width="120" />
 
   # 👋 Hi, I’m Dr. Fayaz Muhammad
   🚀 CEO & Founder of [HelpRush](https://helprush.in) | Founder of Truevet | Builder of real-time, tech-first marketplaces
@@ -54,9 +54,9 @@ My journey is about **transforming ideas into tech-driven impact** — from loca
 
 ## 📫 Connect with Me
 - 🌐 Website → [helprush.in](https://helprush.in)  
-- 💼 LinkedIn → [Your LinkedIn Profile](YOUR_LINKEDIN_URL)  
-- 🐦 Twitter → [Your Twitter Handle](YOUR_TWITTER_URL)  
-- 📧 Email → hello@helprush.in  
+- 💼 LinkedIn →  www.linkedin.com/in/fayyazmuhammad 
+- 🐦 Twitter → https://x.com/Kurhameuk
+- 📧 Email → fayyaz@helprush.in  
 
 ---
 
